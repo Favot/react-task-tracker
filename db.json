@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Codding with Meeko",
+      "day": "Feb 13th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Buy Rum",
+      "day": "Feb 13th at 5:30pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Pitch Project",
+      "day": "Feb 15th at 6:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Go to travel",
+      "day": "One day maybe",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
